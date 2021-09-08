@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm Audrey, she/her
+- I'm a current NRSM MS student at UMN
+-  - that means Natural Resources Science & Management at the University of Minnesota
+-  I'm specializing in Geospatial Analysis, and Bayesian hierarchical modeling
+-  How to reach me: hykex002@umn.edu
+
 <!--
 **hykex002/hykex002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
