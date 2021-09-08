@@ -2,7 +2,7 @@
 
 - I'm Audrey, she/her
 - I'm a current NRSM MS student at UMN
--  - that means Natural Resources Science & Management at the University of Minnesota
+  - that means Natural Resources Science & Management at the University of Minnesota
 -  I'm specializing in Geospatial Analysis, and Bayesian hierarchical modeling
 -  How to reach me: hykex002@umn.edu
 
